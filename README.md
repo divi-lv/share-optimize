@@ -4,11 +4,11 @@ This prototype is one of results of the research No.  1.2.1.1/18/A/003 “Use of
 
 # content
 app - python executables  
-data - sample data fieles:  
-  * car rental history file
-  * file with sectors of sharder service territory 
-  * list of relocators
-  * list of vehicles
+data - sample data files:  
+  * history.xlsx - car rental history files
+  * secotrs.json - file with sectors of sharder service territory 
+  * relocators.json - list of relocators
+  * vehicles.json - list of vehicles
 
 # hot to run
 The prototype may be started ar Doceker Container:
