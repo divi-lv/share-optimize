@@ -1,0 +1,6 @@
+{
+    "relocators": [
+        {"id": "q-0", "sector": "Centrs"},
+        {"id": "q-1", "sector": "Brasa"}
+    ]
+}

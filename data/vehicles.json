@@ -1,0 +1,17 @@
+{
+    "vehicles": [
+        { "id": "h-0", "battery": 100, "sector": "Centrs" },
+        { "id": "h-1", "battery": 100, "sector": "Centrs" },
+        { "id": "h-2", "battery": 20, "sector": "Centrs" },
+        { "id": "h-3", "battery": 20, "sector": "Centrs" },
+        { "id": "h-4", "battery": 100, "sector": "Brasa" },
+        { "id": "h-5", "battery": 100, "sector": "Brasa" },
+        { "id": "h-5", "battery": 20, "sector": "Brasa" },
+        { "id": "h-6", "battery": 100, "sector": "Teika" },
+        { "id": "h-7", "battery": 20, "sector": "Teika" },
+        { "id": "h-8", "battery": 20, "sector": "Teika" },
+        { "id": "h-9", "battery": 100, "sector": "Akropole" },
+        { "id": "h-10", "battery": 100, "sector": "Akropole" },
+        { "id": "h-11", "battery": 100, "sector": "Akropole" }
+    ]
+}
